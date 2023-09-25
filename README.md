@@ -1,1 +1,2 @@
-# DL_Projects
+# DL Projects
+This repository is all about neural networks. Neural networks lay the foundation for deep learning. As neural networks are based on human neurons, the multiple layers of many neurons are capable of handling large datasets. Neural networks thrive on more data. This repository mainly focuses on introduction to neural networks, TensorFlow and Keras. Some basic programs are included for understanding purpose.
